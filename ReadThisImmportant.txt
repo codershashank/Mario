@@ -1,0 +1,22 @@
+This is a simple 2D game use allegro for graphics display and mappy for level
+edit/creater.
+FILES NEEDED:
+
+Allegro library
+If your using Dev C++ get it through the updates/packages.
+other wise seach with google or yahoo.
+
+
+mappyal.c
+mappyal.h
+
+download mappy files at:
+Http://www.tilemap.co.uk
+
+
+any questions E-mail me at: Kingchi9@yahoo.com
+or contact me through daniweb name Locobird.
+
+P.S please keep this file with the package as some background art work
+is from Ari Feldman so credit needs to go to him for some of that.
+thanks.
